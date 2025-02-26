@@ -1,0 +1,9 @@
+{
+    "customer": {
+      "firstName": "standard_user",
+      "lastName": "secret_sauce",
+      "postalCode": "12345",
+      "invalidFirstName": "##",
+      "noValue": ""
+    }
+}    
