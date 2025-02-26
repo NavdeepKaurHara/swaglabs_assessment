@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# swaglabs_assessment
-=======
 # SwagLabs Assessment
 
 This repository contains the technical assessment for SwagLabs. The assessment includes various tasks and test cases to ensure the functionality of the application.
@@ -55,4 +52,3 @@ The SwagLabs assessment is designed to evaluate the following:
     
 
 For any issues or questions, please contact author @ navdeep.hara.qat@gmail.com
->>>>>>> master
