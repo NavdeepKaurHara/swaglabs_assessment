@@ -17,7 +17,7 @@ The SwagLabs assessment is designed to evaluate the following:
 2. **Clone the repository**
    git clone  https://github.com/NavdeepKaurHara/swaglabs_assessment
 
-3. **Navigate to project directory**: SwagLabs
+3. **Navigate to project directory**: cd swaglabs_assessment
 
 
 4. **Install Dependencies**: Install the required dependencies.
