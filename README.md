@@ -24,9 +24,9 @@ The SwagLabs assessment is designed to evaluate the following:
     ```bash
     npm install
     ```
-5. **Check node and cypress version**: To make sure everything is installed.
+5. **Check node and cypress version**: To make sure cypress is installed.
     ```bash
-    npx cypress -v && node -v
+    npx cypress -v
     ```
     if not installed,install cypress 
     ```bash
